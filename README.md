@@ -65,7 +65,5 @@ IP: 192.172.12.2, Host: another-example.com
 
 Contributions are welcome! Please fork the repository and create a pull request with your enhancements or bug fixes.
 
-## License
 
-This project is licensed under the MIT License.
 
